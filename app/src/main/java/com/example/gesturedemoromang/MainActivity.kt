@@ -69,7 +69,7 @@ fun MainScreen(modifier: Modifier = Modifier) {
 @Composable
 fun ScrollModifiers(modifier: Modifier = Modifier) {
 
-    val image = ImageBitmap.imageResource(id = R.drawable.vacation)
+    val image = ImageBitmap.imageResource(id = R.drawable.vacation1)
 
     Box(modifier = modifier
         .size(150.dp)
